@@ -1,0 +1,9 @@
+1. Write a python program to remove duplicates from a list
+
+2.  Write a program to calculate the Area of a Triangle 
+
+3. Python Program to Swap Two Variables.
+
+4.Python Program to Check if a Number is Odd or Even.
+
+5.Python Program to Check Leap Year
