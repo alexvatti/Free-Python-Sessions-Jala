@@ -4,6 +4,6 @@
 
 3. Python Program to Swap Two Variables.
 
-4.Python Program to Check if a Number is Odd or Even.
+4. Python Program to Check if a Number is Odd or Even.
 
-5.Python Program to Check Leap Year
+5. Python Program to Check Leap Year
